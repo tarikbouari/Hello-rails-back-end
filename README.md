@@ -4,7 +4,7 @@
  
 </div>
 
-# HELLO-RAILS-FONTEND [FRONTEND]
+# HELLO-RAILS-BACKEND [BACKEND]
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
