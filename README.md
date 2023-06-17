@@ -29,7 +29,7 @@
 
 # 📖 [hello-rails-backend] <a name="about-project"></a>
 
-> hello-rails-back-end is an API that store greetings messages. Build with rails
+> hello-rails-back-end is an API  that store greetings messages. Build with rails
 
 # Link to backend Project
 [Click here](https://github.com/tarikbouari/Hello-rails-back-end)
@@ -39,7 +39,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 <details>
-  <summary>Client</summary>
+  <summary>Client side</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
