@@ -32,7 +32,7 @@
 > hello-rails-back-end is an API  that store greetings messages. Build with rails
 
 # Link to backend Project
-[Click here](https://github.com/tarikbouari/Hello-rails-back-end)
+[Click here](https://github.com/tarikbouari/hello-rails-front-end)
 
 
 ## 🛠 Built With <a name="built-with"></a>
