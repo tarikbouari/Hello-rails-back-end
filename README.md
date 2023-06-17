@@ -31,27 +31,18 @@
 
 > hello-rails-back-end is an API  that store greetings messages. Build with rails
 
-# Link to backend Project
+# Link to Frontend  Project
 [Click here](https://github.com/tarikbouari/hello-rails-front-end)
 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-<details>
-  <summary>Client side</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>rails</li>
+    <li>PostgreSQL</li>   
   </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
+  
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -74,7 +65,7 @@ In order to run this project you need:
 ```sh
  In order to run this project you need:
 - Computer that's connected to the internet.
-- Get Ruby and React installed
+- Get Ruby  installed
 - Git and Node.js installed 
 - Code editor (preferably VS Code)
 ```
@@ -109,21 +100,16 @@ To run the project in the development environment, execute the following command
 ```
 
 ### Run tests
-
-To run tests, run the following command:
-
 To run tests, run the following command:
 
 ```sh
-  use capybara gem for texting
+  rspec spec
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Tarike Bouari**
 
